@@ -1,5 +1,5 @@
 # my-projects
-This is my first c++ project which took me around 5 months to make.
+This is my first c++ project which took me around 5 months to complete.
 This is a highly customizable mod for a very old game which includes:
 1) An aimbot (automatic aim) for projectile weapons;
 2) An ESP (2D OPEN GL overlay);
