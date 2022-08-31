@@ -1,5 +1,4 @@
 # my-projects
-my projects
 This is my first c++ project which took me around 5 months to make.
 This is a highly customizable mod for a very old game which includes:
 1) An aimbot (automatic aim) for projectile weapons;
